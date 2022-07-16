@@ -19,4 +19,4 @@ Some facts about me😉:
 <br><br>
 
 ![Akshay's github status](https://github-readme-stats.vercel.app/api?username=akshayr11&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)
-<br>
+<br><br>
