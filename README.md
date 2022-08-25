@@ -3,7 +3,7 @@
 
 Engineering in Electronics and Telecommunication from IETE.I enjoy learning new things and developing new insights and improving my skills.
 
-Some facts about me😉: 
+Some facts about me😉:  
 
 - 👀 I’m interested in developing.✨
 - 🌱 I’m currently building Codeuniq.✨
