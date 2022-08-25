@@ -18,5 +18,5 @@ Some facts about me😉:
 <img align="left" alt="Akshay's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" /> akshay.r.ravi@gmail.com 
 <br><br>
 
-![Akshay's github status](https://github-readme-stats.vercel.app/api?username=akshayr11&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D) 
+![Akshay's github status](https://github-readme-stats.vercel.app/api?username=akshayr11&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)  
 <br><br>
