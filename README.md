@@ -6,7 +6,7 @@ Engineering in Electronics and Telecommunication from IETE.I enjoy learning new 
 Some facts about me😉:  
 
 - 👀 I’m interested in developing.✨
-- 🌱 I’m currently building Codeuniq.✨
+- 🌱 I’m currently building Codeuniq.✨ 
 - 💞️ I’m looking to collaborate on web and android development.✨ 
  
 
