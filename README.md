@@ -1,5 +1,5 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am Akshay♒:computer::computer_mouse: 
+### I am Akshay
 
 Engineering in Electronics and Telecommunication from IETE.I enjoy learning new things and developing new insights and improving my skills.
 
